@@ -1,4 +1,4 @@
-# Data Card: Predict Students' Dropout and Academic Success
+# Card Predict Students' Dropout and Academic Success
 
 * **Penerbit:** UCI Machine Learning Repository (Disumbangkan oleh Valentim Realinho, dkk., 2021)
 * **DOI:** 10.24432/C5MC89
