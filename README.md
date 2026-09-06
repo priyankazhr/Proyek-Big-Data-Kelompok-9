@@ -14,6 +14,6 @@ Sesuai dengan ketentuan tugas, struktur repositori diatur sebagai berikut:
 ├── docs/
 │   └── milestones/
 │       └── tugas-1/
-│           └── data_card.md
+│           └── card.md
 ├── README.md
 └── LICENSE
